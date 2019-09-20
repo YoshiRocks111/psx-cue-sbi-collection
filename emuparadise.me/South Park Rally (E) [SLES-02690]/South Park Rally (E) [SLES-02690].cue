@@ -1,5 +1,5 @@
 FILE "South Park Rally (E) (Track 01) [SLES-02690].bin" BINARY
-  TRACK 01 MODE2/2352
+    INDEX 00 00:00:00
     INDEX 01 00:00:00
 FILE "South Park Rally (E) (Track 02) [SLES-02690].bin" BINARY
   TRACK 02 AUDIO
